@@ -1,0 +1,5 @@
+# Ignore these
+ebay_stats.db
+__pycache__/
+*.env
+*.pyc
